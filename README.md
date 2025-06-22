@@ -26,37 +26,6 @@ Each of the stages is described in a separate Jupyter Notebook(.ipynp file) and 
 
 ***
 
-## Stage 1: Data cleaning and preparation
-
-***
-
-#### Notebook Contents:
-0. Introduction - project and notebook summary, notes on the data source
-1. Notebook setup - libraries and data import
-2. Global data overview
-3. Definition of the initial project goals
-3. Data cleaning
-    - dealing with missing values
-    - transformation of the columns into a numerical data type
-    - renaming of features
-    - removing empty columns and rows
-4. Data frame transformation
-    - melting of the data for each variable
-    - integration of the data into a suitable data frame format
-5. Removal of missing values
-    - detection of missing values
-    - removal of missing values by filtering the columns and rows, so that minimal amount of features and rows are lost
-5. Export the clean data frame to a file
-
-***
-
-### Data source
-
-The used data comes from the Climate Change Data of the World Bank Group, which provides country-specific data on parameters such as CO2 emissions, energy use, population count, urban population, cereal yield, nationally terrestrial protected areas, GDP, GNI, etc.
-
-
-The dataset is publicly available at https://datacatalog.worldbank.org/dataset/climate-change-data and licenced under the <a href="https://datacatalog.worldbank.org/public-licenses#cc-by">Creative Commons Attribution 4.0 International license</a>.
-
 ### Project Goals
 
 This machine learning project begins with a high-level analysis of the dataset to define initial goals, which will evolve as deeper insights emerge. Early goal-setting guides data cleaning, transformation, and visualization.
