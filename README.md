@@ -57,4 +57,24 @@ The used data comes from the Climate Change Data of the World Bank Group, which 
 
 The dataset is publicly available at https://datacatalog.worldbank.org/dataset/climate-change-data and licenced under the <a href="https://datacatalog.worldbank.org/public-licenses#cc-by">Creative Commons Attribution 4.0 International license</a>.
 
+### Project Goals
+
+This machine learning project begins with a high-level analysis of the dataset to define initial goals, which will evolve as deeper insights emerge. Early goal-setting guides data cleaning, transformation, and visualization.
+
+The dataset includes country-level features across:
+
+- Greenhouse gas emissions (CO₂, CH₄, N₂O, etc.)
+- Demographics (population size, urbanization, growth)
+- Economy (GDP, GNI, FDI)
+- Land use (cereal yield, protected areas)
+- Climate data (precipitation, disasters)
+- Energy consumption
+- Health infrastructure
+- Others
+
+**Initial Objective:**  
+To analyze the relationships between these features and their impact on climate indicators like emissions and precipitation. Ultimately, the goal is to develop an ML model to predict climate-related variables using country-specific parameters.
+
+These goals will be refined as the project progresses.
+
 ***
