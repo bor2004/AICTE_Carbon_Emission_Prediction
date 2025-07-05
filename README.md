@@ -22,7 +22,7 @@ The project is divided into two stages:
 1. Data cleaning and preparation
 2. Data exploration and Predictive analysis
 
-Each of the stages is described in a separate Jupyter Notebook(.ipynp file) and a derived pdf file.
+Each of the stages is described in a separate Jupyter Notebook(.ipynb file) and a derived pdf file.
 
 ***
 
@@ -41,7 +41,7 @@ The dataset includes country-level features across:
 - Health infrastructure
 - Others
 
-**Initial Objective:**  
+**Objective:**  
 To analyze the relationships between these features and their impact on climate indicators like emissions and precipitation. Ultimately, the goal is to develop an ML model to predict climate-related variables using country-specific parameters.
 
 These goals will be refined as the project progresses.
