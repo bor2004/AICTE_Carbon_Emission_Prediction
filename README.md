@@ -49,7 +49,7 @@ These goals will be refined as the project progresses.
 ***
 
 **Link to the Model:**
-https://drive.google.com/file/d/1R08mOGPySz174lsbmb5J5W52HTeegP_L/view?usp=sharing
+https://drive.google.com/file/d/1sDAGxeBfHNwbfPWHqJkyHFaYJ-iZLBRw/view?usp=drive_link
 
 
 ## Required Libraries
