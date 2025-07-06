@@ -48,7 +48,7 @@ These goals will be refined as the project progresses.
 
 ***
 
-**Link to the Model:**
+**Link to the Model via Google drive: (due to file size limit in Github)**
 https://drive.google.com/file/d/1sDAGxeBfHNwbfPWHqJkyHFaYJ-iZLBRw/view?usp=drive_link
 
 
